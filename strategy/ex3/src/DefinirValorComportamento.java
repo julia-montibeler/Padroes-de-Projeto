@@ -1,4 +1,4 @@
 public interface DefinirValorComportamento {
-    public float definirValor();
+    public float definirValor(Imovel i);
 
 }
